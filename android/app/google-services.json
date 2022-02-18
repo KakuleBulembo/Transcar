@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518752092105",
+    "project_id": "transcar-fbc0e",
+    "storage_bucket": "transcar-fbc0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518752092105:android:b818b1d1edd543d8e7b218",
+        "android_client_info": {
+          "package_name": "com.kakulebulembo.transcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518752092105-pqmocl7qtik8jggqefol7tas9008grje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyhmIMqt0L6w3tcrH0DXsjc6nGEJq-oYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518752092105-pqmocl7qtik8jggqefol7tas9008grje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
